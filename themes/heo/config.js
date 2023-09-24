@@ -1,12 +1,12 @@
 const CONFIG = {
   HOME_BANNER_ENABLE: true,
 
-  SITE_CREATE_TIME: '2023-09-11', // 建站日期，用于计算网站运行的第几天
+  SITE_CREATE_TIME: '2023-01-01', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到pandaHR', url: 'https://www.pandahr.jp' },
-    { title: '访问文档中心获取更多帮助', url: 'https://www.pandahr.jp' }
+    { title: '欢迎收看我们的英雄榜单', url: 'https://www.pandahr.jp/tag/%E8%8B%B1%E9%9B%84%E6%A6%9C' },
+    { title: '', url: '' }
   ],
 
   // 英雄区(首页顶部大卡)
@@ -14,7 +14,7 @@ const CONFIG = {
   HERO_TITLE_2: '自由、快速、合理地选择赴日就职',
   HERO_TITLE_3: '日中人材に関わる全ての企業や人々のために。',
   HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'PandaHR 2.0 ',
+  HERO_TITLE_5: 'PandaHR',
   HERO_TITLE_LINK: 'https://www.pandahr.jp',
 
   // 英雄区显示三个置顶分类
@@ -23,7 +23,7 @@ const CONFIG = {
   HERO_CATEGORY_3: { title: '特定技能案件', url: '/tag/特定技能' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
-  HERO_RECOMMEND_POST_TAG: '推荐',
+  HERO_RECOMMEND_POST_TAG: '',
   HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
