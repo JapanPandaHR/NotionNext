@@ -18,9 +18,9 @@ const CONFIG = {
   HERO_TITLE_LINK: 'https://www.pandahr.jp',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HERO_CATEGORY_1: { title: '赴日就职案件', url: '/tag/赴日就职' },
+  HERO_CATEGORY_2: { title: '在日就职案件', url: '/tag/在日就职' },
+  HERO_CATEGORY_3: { title: '特定技能案件', url: '/tag/特定技能' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '推荐',
@@ -100,7 +100,7 @@ const CONFIG = {
   SOCIAL_CARD_TITLE_1: '交流群',
   SOCIAL_CARD_TITLE_2: 'Hi！ 加入我们的微信群讨论分享',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
-  SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  SOCIAL_CARD_URL: 'https://www.pandahr.jp/article/wechatgroup',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
