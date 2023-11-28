@@ -10,29 +10,29 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: 'PandaHR | 畔达东瀛',
-  HERO_TITLE_2: '自由、快速、合理地选择赴日就职',
+  HERO_TITLE_1: '自由、快速、合理地',
+  HERO_TITLE_2: '选择赴日就职',
   HERO_TITLE_3: '日中人材に関わる全ての企業や人々のために。',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: '英雄榜单',
   HERO_TITLE_LINK: 'https://www.pandahr.jp/tag/%E8%8B%B1%E9%9B%84%E6%A6%9C',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '新人必看', url: '/tag/新人必看' },
+  HERO_CATEGORY_1: { title: '新手必看', url: '/tag/新手必看' },
   HERO_CATEGORY_2: { title: '赴日就职案件', url: '/tag/赴日就职' },
   HERO_CATEGORY_3: { title: '在日就职案件', url: '/tag/在日就职' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
-  HERO_RECOMMEND_POST_TAG: '',
+  HERO_RECOMMEND_POST_TAG: '英雄榜',
   HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
     '你好！我们是',
-    '🔍 帮助赴日就职的🐼',
-    '🤝 帮助在日就职的🐼',
-    '🏃 帮助就职选择的🐼',
-    '🏠 提供就职辅导的🐼'
+    '帮助赴日就职的🐼',
+    '帮助在日就职的🐼',
+    '帮助就职选择的🐼',
+    '提供就职辅导的🐼'
   ],
   INFO_CARD_URL: 'https://www.pandahr.jp', // 个人资料底部按钮链接
 
@@ -97,7 +97,7 @@ const CONFIG = {
   ],
 
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  SOCIAL_CARD_TITLE_1: '交流群',
+  SOCIAL_CARD_TITLE_1: '微信交流群',
   SOCIAL_CARD_TITLE_2: 'Hi！ 加入我们的微信讨论群',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
   SOCIAL_CARD_URL: 'https://www.pandahr.jp/article/wechatgroup',
