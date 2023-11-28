@@ -93,6 +93,14 @@ const CONFIG = {
       title_2: 'icon2',
       img_2: '/images/heo/icon2.webp',
       color_2: '#0d0d0e'
+    },
+    {
+      title_1: 'icon2',
+      img_1: '/images/heo/icon2.webp',
+      color_1: '#0d0d0e',
+      title_2: 'icon1',
+      img_2: '/images/heo/icon1.webp',
+      color_2: '#ffffff'
     }
   ],
 
