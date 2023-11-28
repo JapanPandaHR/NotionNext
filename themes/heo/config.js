@@ -14,13 +14,13 @@ const CONFIG = {
   HERO_TITLE_2: '自由、快速、合理地选择赴日就职',
   HERO_TITLE_3: '日中人材に関わる全ての企業や人々のために。',
   HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'PandaHR',
-  HERO_TITLE_LINK: 'https://www.pandahr.jp',
+  HERO_TITLE_5: '英雄榜单',
+  HERO_TITLE_LINK: 'https://www.pandahr.jp/tag/%E8%8B%B1%E9%9B%84%E6%A6%9C',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '赴日就职案件', url: '/tag/赴日就职' },
   HERO_CATEGORY_2: { title: '在日就职案件', url: '/tag/在日就职' },
-  HERO_CATEGORY_3: { title: '特定技能案件', url: '/tag/特定技能' },
+  // HERO_CATEGORY_3: { title: '特定技能案件', url: '/tag/特定技能' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '',
@@ -98,7 +98,7 @@ const CONFIG = {
 
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   SOCIAL_CARD_TITLE_1: '交流群',
-  SOCIAL_CARD_TITLE_2: 'Hi！ 加入我们的微信群讨论分享',
+  SOCIAL_CARD_TITLE_2: 'Hi！ 加入我们的微信讨论群',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
   SOCIAL_CARD_URL: 'https://www.pandahr.jp/article/wechatgroup',
 
