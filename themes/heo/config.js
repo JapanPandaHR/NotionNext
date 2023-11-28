@@ -10,7 +10,7 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: 'PandaHR',
+  HERO_TITLE_1: 'PandaHR | 畔达东瀛',
   HERO_TITLE_2: '自由、快速、合理地选择赴日就职',
   HERO_TITLE_3: '日中人材に関わる全ての企業や人々のために。',
   HERO_TITLE_4: '新版上线',
@@ -18,9 +18,9 @@ const CONFIG = {
   HERO_TITLE_LINK: 'https://www.pandahr.jp/tag/%E8%8B%B1%E9%9B%84%E6%A6%9C',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '赴日就职案件', url: '/tag/赴日就职' },
-  HERO_CATEGORY_2: { title: '在日就职案件', url: '/tag/在日就职' },
-  HERO_CATEGORY_3: { title: '特定技能案件', url: '/tag/特定技能' },
+  HERO_CATEGORY_1: { title: '新人必看', url: '/tag/新人必看' },
+  HERO_CATEGORY_2: { title: '赴日就职案件', url: '/tag/赴日就职' },
+  HERO_CATEGORY_3: { title: '在日就职案件', url: '/tag/在日就职' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '',
@@ -71,28 +71,28 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
-      color_1: '#f29e39',
-      title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
-      color_2: '#2c51db'
+      title_1: 'icon1',
+      img_1: '/images/heo/icon1.webp',
+      color_1: '#ffffff',
+      title_2: 'icon2',
+      img_2: '/images/heo/icon2.webp',
+      color_2: '#0d0d0e'
     },
     {
-      title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
-      color_1: '#f7cb4f',
-      title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
-      color_2: '#e9572b'
+      title_1: 'icon2',
+      img_1: '/images/heo/icon2.webp',
+      color_1: '#0d0d0e',
+      title_2: 'icon1',
+      img_2: '/images/heo/icon1.webp',
+      color_2: '#ffffff'
     },
     {
-      title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
-      color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
-      color_2: '#1f1f1f'
+      title_1: 'icon1',
+      img_1: '/images/heo/icon1.webp',
+      color_1: '#ffffff',
+      title_2: 'icon2',
+      img_2: '/images/heo/icon2.webp',
+      color_2: '#0d0d0e'
     }
   ],
 
