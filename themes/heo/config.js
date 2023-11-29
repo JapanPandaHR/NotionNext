@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎收看我们的英雄榜单', url: 'https://www.pandahr.jp/tag/%E8%8B%B1%E9%9B%84%E6%A6%9C' },
-    { title: '', url: '' }
+    { title: '点击查看我们的英雄榜单', url: 'https://www.pandahr.jp/tag/%E8%8B%B1%E9%9B%84%E6%A6%9C' },
+    { title: '点击联系我们', url: 'https://www.pandahr.jp/contact' }
   ],
 
   // 英雄区(首页顶部大卡)
