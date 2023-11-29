@@ -379,7 +379,7 @@ function TodayCard({ cRef }) {
           } cursor-pointer today-card-cover absolute w-full h-full top-0`}
           style={{
             background:
-              "url('https://pandahrjp.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F94040031-af1f-40e9-9ae7-2d9da0e21c8e%2F181b4737-4950-4b62-afbf-d3ce6a0fda10%2FUntitled.png?table=block&id=e23c749b-5b5d-4056-b1ff-cedfe35959f9&spaceId=94040031-af1f-40e9-9ae7-2d9da0e21c8e&width=2000&userId=&cache=v2') no-repeat center /cover"
+              "url('https://pandahrjp.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F94040031-af1f-40e9-9ae7-2d9da0e21c8e%2Fb557afdd-0ae0-43b9-bd38-2d42ead300b4%2FUntitled.png?table=block&id=8a850522-9e87-4b0d-93da-d8875780ae98&spaceId=94040031-af1f-40e9-9ae7-2d9da0e21c8e&width=1540&userId=&cache=v2') no-repeat center /cover"
           }}
         ></div>
       </div>
