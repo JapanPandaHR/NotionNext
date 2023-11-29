@@ -193,7 +193,7 @@ function GroupMenu() {
       {/* 第三个标签在小屏上不显示 */}
       <Link
         href={CONFIG.HERO_CATEGORY_3?.url}
-        className="group relative overflow-hidden bg-gradient-to-r from-gray-300 to-gainsboro-300 hidden h-20 xl:flex justify-start items-center text-white rounded-xl xl:hover:w-1/2 xl:w-1/3 transition-all duration-500 ease-in"
+        className="group relative overflow-hidden bg-gradient-to-r from-black-300 to-gray-300 hidden h-20 xl:flex justify-start items-center text-white rounded-xl xl:hover:w-1/2 xl:w-1/3 transition-all duration-500 ease-in"
       >
         <div className="font-bold text-lg pl-5 relative -mt-2">
           {CONFIG.HERO_CATEGORY_3?.title}
@@ -368,7 +368,7 @@ function TodayCard({ cRef }) {
               className={'w-6 h-6 mr-2 bg-white rounded-full stroke-indigo-400'}
             />
             <div id="more" className="select-none">
-              更多推荐
+              合格实绩
             </div>
           </div>
         </div>
