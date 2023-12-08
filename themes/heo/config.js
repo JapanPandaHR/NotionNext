@@ -10,8 +10,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '自由、快速、合理地',
-  HERO_TITLE_2: '选择赴日就职',
+  HERO_TITLE_1: 'Panda HR',
+  HERO_TITLE_2: '畔达东瀛',
   HERO_TITLE_3: '日中人材に関わる全ての企業や人々のために。',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: '英雄榜单',
